@@ -6,9 +6,9 @@
    <UUID>c5ab6e9a-658e-4529-95a5-b184d4054c7b</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.3</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.2.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\abriki\Katalon Studio\TrainingDemoProject\TrainingDemoProject.prj</projectFileLocation>
